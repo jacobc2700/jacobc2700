@@ -1,10 +1,3 @@
 ## Hello, I'm Humboo.
 
 Check out my website: https://www.thehumboo.com/.
-
-## Technologies:
-* **Web Development:** JavaScript.
-* **Web/Mobile:** HTML5, CSS3, Flask, React.js, React Native, Node.js, Express.js, MongoDB, SQL, Firebase, GCP, AWS, Heroku
-* **ML/AI/Data Science:** Scikit Learn, Tensorflow, Keras, OpenCV, Matplotlib, Numpy, Pandas, Cartopy, NLTK
-
-## Projects:
