@@ -1,6 +1,6 @@
-## Hello, I'm Humboo.
+# Hello, I'm Humboo.
 
-# My Links
+## My Links
 - Personal Website: https://www.thehumboo.com/.
 - GitHub Gist: https://gist.github.com/jacobc2700.
 - Online Editor: https://replit.com/@humboo.
