@@ -9,5 +9,4 @@
 - Flexer
 - Split
 - Choicy
-- Tasky
 - Groove
