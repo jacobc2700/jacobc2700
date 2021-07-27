@@ -3,6 +3,10 @@
 - Personal Website: https://www.thehumboo.com/.
 - Code Snippets: https://gist.github.com/jacobc2700.
 
-### Test heading
+### Projects
 
-- Link: youtube.com
+- Flexer
+- Split
+- Choicy
+- Tasky
+- Groove
