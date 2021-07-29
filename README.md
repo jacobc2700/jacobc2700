@@ -1,4 +1,4 @@
-# Hello, I'm Humboo.
+# Hello, I'm Jacob.
 
 - Personal Website: https://www.thehumboo.com/.
 - Small Projects: https://github.com/jacobc2700/code.
