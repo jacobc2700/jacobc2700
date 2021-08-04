@@ -1,3 +1,3 @@
 # Hello, I'm Jacob.
 
-- Personal Website: https://www.jacobechang.com/.
+Check out my website: https://www.jacobechang.com/.
